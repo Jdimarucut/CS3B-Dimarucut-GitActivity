@@ -1,5 +1,8 @@
 1. What Challenges did you face during this activity
+-During this activity I faced a minor problem which is the error: failed to push some refs to 'https://github.com/Jdimarucut/CS3B-Dimarucut-GitActivity' I tried to push my local to the GitHub but somehow I encounter this problem, what I did after is just copied the git branch and then push.
 
 2. Which Git command was the most confusing?
+-For me it was the rebase because I encountered a problem and what the online source says that I must add this feature in the command list and somehow doesn't even do anything or its just little bit confusing for me on how to use that command. 
 
 3.How can version control help in real-world software development?
+-Version control is very important in real-world development. It helps people work together in a team and keep a history of changes. It allows people to work on something without overwriting the work of others at the same time.
